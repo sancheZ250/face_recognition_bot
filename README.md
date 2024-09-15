@@ -17,7 +17,7 @@
 1. Клонируйте репозиторий:   
    
     ```bash   
-    git clone https://github.com/yourusername/face-recognition-bot.git   
+    git clone https://github.com/sancheZ250/face_recognition_bot      
     cd face-recognition-bot   
     ```   
    
@@ -29,7 +29,7 @@
     pip install -r requirements.txt   
     ```   
 
-3. Создайте файл `.env`. Создайте файл `.env` в корневой директории проекта и добавьте ваш Telegram API токен:   
+3. Создайте файл `.env` в корневой директории проекта и добавьте ваш Telegram API токен:   
    
     ```   
     API_TOKEN=your_telegram_bot_token   
